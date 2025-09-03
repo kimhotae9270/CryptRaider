@@ -28,4 +28,6 @@
 #### 🏗️ 학습/구현 포인트
 - 언리얼 **PhysicsHandle**과 `LineTrace`를 이용한 **물체 잡기 시스템**  
 - **Trigger Volume** 기반 이벤트 시스템 (Overlap 이벤트)  
-- C++ 기반 **오브젝트 이동/회전 로직** 및 모듈화된 컴포넌트 구조  
+- C++ 기반 **오브젝트 이동/회전 로직** 및 모듈화된 컴포넌트 구조
+
+- <img width="1028" alt="game" src="https://github.com/user-attachments/assets/ce91ff97-6320-44ab-aa03-be9800efcbf3" style ="text-align:center"/>
