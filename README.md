@@ -31,6 +31,7 @@
 - C++ 기반 **오브젝트 이동/회전 로직** 및 모듈화된 컴포넌트 구조
 
 <p align="center">
-  <img src="[demo/your_demo.gif](https://github.com/user-attachments/assets/10e164e5-8870-4e04-841a-966cd78917a6)" width="600" alt="게임 데모" />
+  <img src="https://github.com/user-attachments/assets/10e164e5-8870-4e04-841a-966cd78917a6" width="600" alt="게임 데모" />
 </p>
+
 
